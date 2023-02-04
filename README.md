@@ -1,4 +1,4 @@
-# Tanpopo1-surfaceObject
+# Tanpopo1-SurfaceObject
 
 1. たんぽぽ1計画とは
 - 国際ステーション上で行われている日本初のアストロバイオロジー実験
